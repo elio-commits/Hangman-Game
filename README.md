@@ -1,5 +1,10 @@
 # Hangman
 
+## About
+
+A command-line hangman game that reads from an external word list and randomly selects a word for the player to guess. The player gets 6 wrong guesses before the game ends, with ASCII art updating after each mistake. Built while learning Java to practice file I/O, ArrayLists, and working with strings.
+
+
 ## Demo
 
 ```
